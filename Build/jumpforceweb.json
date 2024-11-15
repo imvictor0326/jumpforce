@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "juegoplataformas",
+"dataUrl": "jumpforceweb.data.unityweb",
+"asmCodeUrl": "jumpforceweb.asm.code.unityweb",
+"asmMemoryUrl": "jumpforceweb.asm.memory.unityweb",
+"asmFrameworkUrl": "jumpforceweb.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
